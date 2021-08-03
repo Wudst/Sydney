@@ -1,0 +1,14 @@
+---
+title: "Sydney"
+author: "Alex Wysocki"
+date: "6/20/2021"
+output: html_document
+---
+
+### Hey Bean Buddy,
+
+Ah yes it looks different. Spooookyyy. I just did not want to have to make a new page with a new link. It makes things easy lol. Love is a hard thing to describe and you put it well in your letter. I wanted to do my own iteration here. My love for you is recognizing that you deserve everything in the world. I have never felt the need to please someone as much as I do for you. Like I feel good when I do nice things for others. But when I treat you right, it just feels so much better. Like I am supposed to be there for you. I am not describing it here that well. I just have this really strong desire to give you things and be there for you that I have never felt with anyone before. We have something really special. Everything just worked out so magically and organically. Its almost too good. Let me knock on wood real quick so I don't jinx anything. But if we keep this going, I think I found my heaven on earth. 
+
+Love you,
+
+Alex
